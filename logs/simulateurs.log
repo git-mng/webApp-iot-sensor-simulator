@@ -1,8 +1,1 @@
-Démarrage de tous les simulateurs de capteurs IoT...
-Simulateur 'capteurs/capteur_parking.py' démarré avec PID 129442
-Simulateur 'capteurs/capteur_batiments.py' démarré avec PID 129443
-Simulateur 'capteurs/capteur_wifi.py' démarré avec PID 129444
-Simulateur 'capteurs/capteur_meteo.py' démarré avec PID 129445
-Simulateur 'capteurs/capteur_transport.py' démarré avec PID 129446
 
-Arrêt des simulateurs...
